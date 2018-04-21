@@ -1,2 +1,3 @@
 This file will contain possible changes to our program to evaluate what gives a better output.
 - The current resolution we are using is given by the dataset with 18 bins at the frequency axis. We can try to use a higher resolution.
+20180421
